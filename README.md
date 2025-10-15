@@ -1,20 +1,62 @@
 
-# 👋 Hey there! I'm Fateme Shafiee  
+<!-- Header animation -->
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px" />
+  
+  # Hey there! I'm **Fateme Shafiee** 👩‍💻  
+  *A passionate Web Developer who loves to blend creativity and clean code!*  
+</div>
 
-💻 I'm a **Web Developer** who loves turning ideas into beautiful, functional, and responsive websites.  
-✨ I enjoy mixing creativity with clean code and exploring new tools that make the web more fun.  
+---
 
-### 🌱 What I'm working with:
-- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS  
-- **Backend / Logic:** Python, C++  
-- **Currently learning:** Deep dive into modern React & advanced JavaScript  
+### 🌈 About Me  
+💻 I’m a **Web Developer** who enjoys building beautiful and interactive websites.  
+🚀 I love learning, creating, and improving my coding skills every day.  
+☕ Code + Music + Coffee = my perfect day.  
 
-### 💡 A little more about me:
-- ☕ I can’t code without good music and coffee  
-- 🚀 I love learning new technologies and improving my projects  
-- 🎨 I enjoy designing smooth, minimal, and user-friendly interfaces  
+---
 
-### 📫 Let's connect!
-If you like my work or want to collaborate, feel free to reach out!  
-💌 [Email me](fatmshafiee@gmail.com)
+### 🛠️ Technologies & Tools  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,cpp,vscode,git,github" />
+</p>
+
+---
+
+### 🌱 Currently Exploring  
+- Modern React (Hooks, Context, Next.js)  
+- JavaScript deep concepts  
+- Creative UI with Tailwind  
+
+---
+
+### 📊 GitHub Stats  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fatemeshafiee&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatemeshafiee&layout=compact&theme=radical" height="165" />
+</div>
+
+---
+
+### ✨ Fun Fact  
+> “Code is like art — it becomes beautiful when it works effortlessly.”
+
+---
+
+### 💌 Connect with Me  
+<p align="center">
+  <a href="mailto:fatmshafiee@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/fatemeshafiee"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github"></a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  <br>
+  💫 *Thanks for visiting my profile!*
+</div>
 
