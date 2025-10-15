@@ -1,8 +1,4 @@
 
-<!-- Header animation -->
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px" />
-  
   # Hey there! I'm **Fateme Shafiee** 👩‍💻  
   *A passionate Web Developer who loves to blend creativity and clean code!*  
 </div>
@@ -47,8 +43,8 @@
 
 ### 💌 Connect with Me  
 <p align="center">
-  <a href="mailto:fatmshafiee@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="fatmshafiee@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/public-profile/settings)"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://github.com/fatemeshafiee"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github"></a>
 </p>
 
