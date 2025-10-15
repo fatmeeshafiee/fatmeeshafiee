@@ -45,7 +45,7 @@
 <p align="center">
   <a href="fatmshafiee@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/fateme-shafiee-2a9487341/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/fatemeeshafiee"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/fatmeeshafiee"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
