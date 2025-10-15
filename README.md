@@ -16,8 +16,5 @@
 
 ### 📫 Let's connect!
 If you like my work or want to collaborate, feel free to reach out!  
-💌 [Email me](mailto:your.email@example.com) or connect on [LinkedIn](https://linkedin.com/in/yourprofile)
+💌 [Email me](fatmshafiee@gmail.com)
 
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
