@@ -31,7 +31,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fatemeshafiee&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatemeshafiee&layout=compact&theme=radical" height="165" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatemeshafiee&layout=compact&theme=radical" height="165" /> -->
 </div>
 
 ---
