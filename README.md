@@ -1,58 +1,87 @@
+<div align="center">
 
-  # Hey there! I'm **Fateme Shafiee** 👩‍💻  
-  *A passionate Web Developer who loves to blend creativity and clean code!*  
+# 👩‍💻 Fateme Shafiee  
+### 🛡️ SOC Tier 1 Analyst | Blue Team Enthusiast
+
 </div>
 
 ---
 
-### 🌈 About Me  
-💻 I’m a **Web Developer** who enjoys building beautiful and interactive websites.  
-🚀 I love learning, creating, and improving my coding skills every day.  
-☕ Code + Music + Coffee = my perfect day.  
+## 🔐 About Me  
+
+I am a motivated and detail-oriented **SOC Tier 1 Analyst** with a strong interest in cybersecurity operations, threat detection, and incident response.
+
+- 🔍 Monitoring and analyzing security events  
+- 📊 Investigating alerts and escalating incidents  
+- 🛡️ Passionate about Blue Team operations  
+- 🚀 Continuously learning and improving security skills  
 
 ---
 
-### 🛠️ Technologies & Tools  
+## 🛠️ Technical Skills  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,cpp,vscode,git,github" />
-</p>
+### 🖥️ Security Operations
+- SIEM Monitoring (Splunk / Wazuh / ELK)
+- Log Analysis & Event Correlation
+- Incident Response (Tier 1 Level)
+- MITRE ATT&CK Framework
+- Threat Intelligence Basics
+
+### 🌐 Networking
+- TCP/IP, DNS, HTTP/HTTPS
+- Firewall & IDS/IPS Concepts
+- VPN & Network Security Fundamentals
+
+### 💻 Operating Systems
+- Windows Security Logs
+- Linux Basics
+- Active Directory Fundamentals
+
+### 🔎 Security Tools
+- Wireshark
+- Nmap
+- Burp Suite
+- Git & GitHub
 
 ---
 
-### 🌱 Currently Exploring  
-- Modern React (Hooks, Context, Next.js)  
-- JavaScript deep concepts  
-- Creative UI with Tailwind  
+## 📚 Currently Learning
+
+- Advanced SIEM & Detection Engineering
+- Threat Hunting
+- Malware Analysis (Beginner)
+- Blue Team Methodologies
 
 ---
 
-### 📊 GitHub Stats  
+## 📂 Featured Projects
+
+- 🔍 Log Analysis Lab (Windows Event Logs Investigation)
+- 🛡️ Basic SOC Monitoring Simulation
+- 🌐 Network Scanning & Enumeration Lab
+- 📊 ELK Stack Setup for Security Monitoring
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatemeshafiee&show_icons=true&theme=radical" height="165" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatemeshafiee&layout=compact&theme=radical" height="165" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=fatemeshafiee&show_icons=true&show_icons=true&theme=tokyonight" height="165" />
 </div>
 
 ---
 
-### ✨ Fun Fact  
-> “Code is like art — it becomes beautiful when it works effortlessly.”
+## 🎯 Career Goal
+
+To grow as a cybersecurity professional and contribute effectively to a Security Operations Center by detecting, analyzing, and responding to security incidents.
 
 ---
 
-### 💌 Connect with Me  
-<p align="center">
-  <a href="fatmshafiee@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/fateme-shafiee-2a9487341/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/fatmeeshafiee"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github"></a>
-</p>
+## 📫 Connect With Me
+
+- LinkedIn: (Add your LinkedIn link)
+- Email: (Your professional email)
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-  <br>
-  💫 *Thanks for visiting my profile!*
-</div>
-
+> “Security is not a product, but a continuous process.”
