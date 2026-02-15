@@ -12,7 +12,7 @@
 I am a motivated and detail-oriented **SOC Tier 1 Analyst** with a strong interest in cybersecurity operations, threat detection, and incident response.
 
 - 🔍 Monitoring and analyzing security events  
-- 📊 Investigating alerts and escalating incidents  
+- 📊 Investigating alerts 
 - 🛡️ Passionate about Blue Team operations  
 - 🚀 Continuously learning and improving security skills  
 
@@ -21,11 +21,9 @@ I am a motivated and detail-oriented **SOC Tier 1 Analyst** with a strong intere
 ## 🛠️ Technical Skills  
 
 ### 🖥️ Security Operations
-- SIEM Monitoring (Splunk / Wazuh / ELK)
+- SIEM Monitoring (Splunk)
 - Log Analysis & Event Correlation
 - Incident Response (Tier 1 Level)
-- MITRE ATT&CK Framework
-- Threat Intelligence Basics
 
 ### 🌐 Networking
 - TCP/IP, DNS, HTTP/HTTPS
@@ -45,21 +43,10 @@ I am a motivated and detail-oriented **SOC Tier 1 Analyst** with a strong intere
 
 ---
 
-## 📚 Currently Learning
-
-- Advanced SIEM & Detection Engineering
-- Threat Hunting
-- Malware Analysis (Beginner)
-- Blue Team Methodologies
-
----
-
 ## 📂 Featured Projects
 
 - 🔍 Log Analysis Lab (Windows Event Logs Investigation)
 - 🛡️ Basic SOC Monitoring Simulation
-- 🌐 Network Scanning & Enumeration Lab
-- 📊 ELK Stack Setup for Security Monitoring
 
 ---
 
@@ -77,11 +64,12 @@ To grow as a cybersecurity professional and contribute effectively to a Security
 
 ---
 
-## 📫 Connect With Me
-
-- LinkedIn: (Add your LinkedIn link)
-- Email: (Your professional email)
-
+### 💌 Connect with Me  
+<p align="center">
+  <a href="fatmshafiee@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/fateme-shafiee-2a9487341/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/fatmeeshafiee"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github"></a>
+</p>
 ---
 
 > “Security is not a product, but a continuous process.”
